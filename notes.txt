@@ -1,0 +1,5 @@
+🌠 Practice 
+
+   1. Data types
+   2. Operators
+   
