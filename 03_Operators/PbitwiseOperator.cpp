@@ -145,6 +145,15 @@ f = e^e;  // 🎉 output:- 0 (e= garbage value  then e = e into same value = 0)
 
 cout << "Bitwise Operation of f: " << f << endl;
 
+//❓ Tricky Question 1 Bitwise Operator 
+
+int s,t;
+s = t^t; // (garbage value ^ garbage value => 0 always)
+
+cout << "Bitwise Operation of s: " << s << endl;
+
+
+
 
 // 💁 Note:- 1. Bitwise operation only for apicable 🌟integer🌟 not be 🌟decimal(not use)🌟
           // 2. Universal truth is: same number aside with AND(&) or OR(|) Operator 🌟 answer is same number🌟 Ex:- ( a = 5 & 5 => 5 output) or (a = 6 | 6 => 6 output) 
