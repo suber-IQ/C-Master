@@ -1,4 +1,4 @@
-// 👉 Reference Object 
+// 👉 Reference Object (pointer object)
 #include<iostream>
 using namespace std;
 
@@ -18,7 +18,8 @@ class Abc{
 
 int main(){
 
-    Abc A,*B;
+    Abc A;  // 🎉 Actual object 
+    Abc *B;  // 🎉 Reference Object
     B = &A;
     A.incr();
     A.incr();

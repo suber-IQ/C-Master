@@ -3,6 +3,7 @@
    1. Data types
    2. Operators
    3. Array Matrix :- addition,subtraction,multiply & division of Matries
+   4. overriding of inherited class
 
 
 
