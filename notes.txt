@@ -3,3 +3,113 @@
    1. Data types
    2. Operators
    3. Array Matrix :- addition,subtraction,multiply & division of Matries
+
+
+
+
+
+
+
+
+🌟 100 Project C++
+
+Hello World Program
+Simple Calculator
+To-Do List App
+Guess the Number Game
+Basic File Reader/Writer
+Currency Converter
+Basic Paint Program
+Tic-Tac-Toe Game
+Simple Web Scraper
+Basic Chat Application
+Library Management System
+Student Database Management
+ATM Simulator
+Snake Game
+Employee Payroll System
+Online Quiz Game
+Scientific Calculator
+Text-Based RPG Game
+Simple Shell
+Basic Search Engine
+Bank Management System
+Expense Tracker
+Railway Reservation System
+Multiplayer Pong Game
+Network Chat Application
+Weather App using API
+Car Rental System
+Sudoku Solver
+Graph Plotter
+Simple Blog Engine
+Barcode Generator/Scanner
+Online Voting System
+2D Game Engine
+Chess Game
+CRM (Customer Relationship Management) System
+Video Streaming App
+Online Marketplace
+Image Recognition using OpenCV
+E-commerce Platform
+Virtual Memory Simulator
+Job Portal System
+Music Player with Visualizer
+Cryptocurrency Tracker
+Social Media Dashboard
+Automated Testing Framework
+Restaurant Management System
+Network Packet Sniffer
+Flight Reservation System
+Personal Finance Manager
+Task Scheduler
+URL Shortener
+Database Management System
+Cloud Storage System
+Peer-to-Peer File Sharing
+Compiler Design
+Facial Recognition System
+Real-Time Chat Application
+Minesweeper Game
+Hospital Management System
+Automated Attendance System
+Artificial Neural Network
+Online Banking System
+Elevator Simulation
+Game of Life Simulation
+File Compression Tool
+Data Encryption/Decryption
+Elevator Control System
+Virtual Reality Simulation
+Flight Simulator
+Autonomous Robot Control
+Genetic Algorithm Implementation
+Speech Recognition System
+Multi-threaded Web Server
+Smart Home Automation System
+Blockchain Implementation
+Automated Trading System
+Quantum Computing Simulator
+IoT-based Weather Station
+Gesture Recognition System
+3D Rendering Engine
+Computer Vision Project
+Augmented Reality App
+Neural Style Transfer
+Chatbot with Natural Language Processing
+Self-Driving Car Simulation
+Image Segmentation
+Machine Learning-based Recommendation System
+Virtual Assistant
+Predictive Text Generator
+Deep Learning Image Classifier
+Sentiment Analysis on Social Media Data
+Reinforcement Learning Game AI
+Smart Mirror Project
+Real-Time Object Detection
+Gesture Controlled Robot
+Brain-Computer Interface
+Drone Flight Controller
+Predictive Maintenance System
+Human Pose Estimation
+Quantum Cryptography Implementation
